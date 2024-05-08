@@ -72,20 +72,6 @@
                         </details>
                     </div>
                     <div class="table_custom-row">
-                        <div class="table-c1">#149</div>
-                        <details class="table-c2">
-                            <summary>Ramos Arriba</summary>
-                            <p>Todas las colonias que salen de ramos y tambien el centro.</p>
-                        </details>
-                    </div>
-                    <div class="table_custom-row">
-                        <div class="table-c1">#3412</div>
-                        <details class="table-c2">
-                            <summary>Saltillo 200</summary>
-                            <p>saltillo teresitas, pasa por el centro centro.</p>
-                        </details>
-                    </div>
-                    <div class="table_custom-row">
                         <div class="table-c1">#2439</div>
                         <details class="table-c2">
                             <summary>Fundadores</summary>
@@ -96,27 +82,6 @@
                         <div class="table-c1">#2419</div>
                         <details class="table-c2">
                             <summary>Guayulera</summary>
-                            <p>Ramos teresitas, pasa por el centro centro abajo.</p>
-                        </details>
-                    </div>
-                    <div class="table_custom-row">
-                        <div class="table-c1">#149</div>
-                        <details class="table-c2">
-                            <summary>Ramos Arriba</summary>
-                            <p>Todas las colonias que salen de ramos y tambien el centro.</p>
-                        </details>
-                    </div>
-                    <div class="table_custom-row">
-                        <div class="table-c1">#3412</div>
-                        <details class="table-c2">
-                            <summary>Teresitas</summary>
-                            <p>saltillo teresitas, pasa por el centro centro.</p>
-                        </details>
-                    </div>
-                    <div class="table_custom-row">
-                        <div class="table-c1">#2419</div>
-                        <details class="table-c2">
-                            <summary>Ramos</summary>
                             <p>Ramos teresitas, pasa por el centro centro abajo.</p>
                         </details>
                     </div>
